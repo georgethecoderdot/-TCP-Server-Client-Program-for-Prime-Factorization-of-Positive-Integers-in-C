@@ -1,4 +1,4 @@
-# -TCP-Server-Client-Program-for-Prime-Factorization-of-Positive-Integers-in-C
+# TCP-Server-Client-Program-for-Prime-Factorization-of-Positive-Integers-in-C
 
 The program is a network client-server application. 
 
